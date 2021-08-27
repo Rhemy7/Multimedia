@@ -1,9 +1,8 @@
 # Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
 
 ## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? 
-
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
+J'ai choisi le cour d'intégration en multimedia car l'aspect audio m'intéressait et pour explorer plusieurs possibilités.
+Mes connaissance sur l'aspect technique de l'audio sont limité et je crois que ce cours soit une bonne opportunité pour devélopper cela. 
+Bien evidemment le cour de mixing m'intéresse le plus mais celui sur l'animation aussi.
+J'aimerais deplus apprendre la programmation.
+J'ai aucun métier en tête que j'aimerais faire grâce à cette formation.
